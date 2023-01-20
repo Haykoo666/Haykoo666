@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Hayk</h1>
+<h3 align="center">A passionate __frontend developer__ from Armenia</h3>
 # 💫 About Me:
 🔭 I’m currently working on something cool<br>🌱 I’m currently learning TypeScript<br>📫  How to reach me: grigoryanhayk86@gmail.com<br>💬  Ask me about anything related to Javascript/Typescript/React<br>
 
