@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Hayk</h1>
-<h3 align="center">A passionate __frontend developer__ from Armenia</h3>
-# 💫 About Me:
-🔭 I’m currently working on something cool<br>🌱 I’m currently learning TypeScript<br>📫  How to reach me: grigoryanhayk86@gmail.com<br>💬  Ask me about anything related to Javascript/Typescript/React<br>
+# <h1 align="center">Hi 👋, I'm Hayk</h1>
+<h3 align="center">A passionate frontend developer from Armenia</h3>
 
+# 💫 About Me:
+🔭 I’m currently working on something cool<br>🌱 I’m currently learning TS<br>📫  How to reach me: grigoryanhayk86@gmail.com<br>💬  Ask me about anything related to Javascript/Typescript/React<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hayk-grigoryan-207110231) 
