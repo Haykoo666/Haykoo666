@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on something cool<br>🌱 I’m currently learning TS<br>📫  How to reach me: grigoryanhayk86@gmail.com<br>💬  Ask me about anything related to Javascript/Typescript/React<br>
+🔭 I’m currently working on something cool<br>🌱 I’m currently learning TypeScript<br>📫  How to reach me: grigoryanhayk86@gmail.com<br>💬  Ask me about anything related to Javascript/Typescript/React<br>
 
 
 ## 🌐 Socials:
